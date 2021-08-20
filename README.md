@@ -55,18 +55,17 @@ the best score of 81.9% through grid search with an alpha value of 0.5. This cla
 positive Rate of 96.5%, False positive rate of 4.2%. a true negative rate of 95.8%, a false negative
 rate of 3.5% and an accuracy of 96.14% for Amazon
 
-<img src="https://github.com/Mobiee/NLP-Sentiment-Classification-of-Movie-Reviews/blob/main/screenshots%20/chart5.png" width="400" height="300" />
-
+<img src="https://github.com/Mobiee/NLP-Sentiment-Classification-of-Movie-Reviews./blob/main/screenshots/chart5.png?raw=true" width="400" height="300" />
 As for IMDB, this classifier has a true positive rate of 94.3%, a false-positive rate of 4.5%, a true
 negative rate of 95.5% and a false-negative rate of 5.8% accuracy of 94.9%
 
 
-<img src="https://github.com/Mobiee/NLP-Sentiment-Classification-of-Movie-Reviews/blob/main/screenshots%20/chart6.png" width="400" height="300" />
+<img src="https://github.com/Mobiee/NLP-Sentiment-Classification-of-Movie-Reviews./blob/main/screenshots/chart6.png?raw=true" width="400" height="300" />
 
 For yelp, this classifier has a true positive rate of 97% and a false-positive rate of 4%, a true negative
 rate of 96% and a False-negative rate of 3.3% accuracy 96.4%.
 
-<img src="https://github.com/Mobiee/NLP-Sentiment-Classification-of-Movie-Reviews/blob/main/screenshots%20/chart7.png" width="400" height="300" />
+<img src="https://github.com/Mobiee/NLP-Sentiment-Classification-of-Movie-Reviews./blob/main/screenshots/chart7.png?raw=true" width="400" height="300" />
 
 
 In terms of False positive rate overall Yelp has the lowest False positive rate of 4%, Yelp also had the
@@ -77,7 +76,7 @@ within feature ser of a particular review.
 The classifier is also tested on some other texts to observe how well it performs with long positive
 and negative sentences.
 
-<img src="https://github.com/Mobiee/NLP-Sentiment-Classification-of-Movie-Reviews/blob/main/screenshots%20/chart8.png" width="400" height="300" />
+<img src="https://github.com/Mobiee/NLP-Sentiment-Classification-of-Movie-Reviews./blob/main/screenshots/chart8.png?raw=true" width="400" height="300" />
 For long negative and positive sentences also it has an accepted performance as negative sentences
 correctly classified with 0.862 probability and positive sentence is correctly classified as positive with
 highs probability of 0.93.
