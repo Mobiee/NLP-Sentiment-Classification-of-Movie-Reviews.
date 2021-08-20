@@ -76,7 +76,7 @@ within feature ser of a particular review.
 The classifier is also tested on some other texts to observe how well it performs with long positive
 and negative sentences.
 
-<img src="https://github.com/Mobiee/NLP-Sentiment-Classification-of-Movie-Reviews./blob/main/screenshots/chart8.png?raw=true" width="400" height="300" />
+<img src="https://github.com/Mobiee/NLP-Sentiment-Classification-of-Movie-Reviews./blob/main/screenshots/chart8.png?raw=true" width="500" height="300" />
 For long negative and positive sentences also it has an accepted performance as negative sentences
 correctly classified with 0.862 probability and positive sentence is correctly classified as positive with
 highs probability of 0.93.
