@@ -33,9 +33,9 @@ data before cleaning, which mostly consist of common stop words of “the”, �
 would make no contribution for sentiment analysis, hence after data cleaning the clean unigrams is
 explored as shown in Figure 2, which shows a better result as compared to Figure 1.
 
-<img src="https://github.com/Mobiee/NLP-Sentiment-Classification-of-Movie-Reviews/blob/main/screenshots%20/barchart1.png" width="400" height="300" />
+<img src="https://github.com/Mobiee/NLP-Sentiment-Classification-of-Movie-Reviews./blob/main/screenshots/bar1.png?raw=true" width="400" height="300" />
 
-<img src="https://github.com/Mobiee/NLP-Sentiment-Classification-of-Movie-Reviews/blob/main/screenshots%20/barchart2.png" width="400" height="300" />
+<img src="https://github.com/Mobiee/NLP-Sentiment-Classification-of-Movie-Reviews./blob/main/screenshots/bar2.png?raw=true" width="400" height="300" />
 
 The distribution of bigrams is also explored, just like unigram before data cleaning, bigrams before
 data cleaning mostly consist of stop words. After data cleaning, most of the bi-grams have
@@ -43,9 +43,8 @@ understandable meaning for example before cleaning the bigram "of the" would not
 contributed to sentiment analysis but after cleaning the bigram "did not" will contribute to the
 classification of sentiment analysis.
 
-<img src="https://github.com/Mobiee/NLP-Sentiment-Classification-of-Movie-Reviews/blob/main/screenshots%20/barchart3.png" width="400" height="300" />
-
-<img src="https://github.com/Mobiee/NLP-Sentiment-Classification-of-Movie-Reviews/blob/main/screenshots%20/barchart4.png" width="400" height="300" />
+<img src="https://github.com/Mobiee/NLP-Sentiment-Classification-of-Movie-Reviews./blob/main/screenshots/bar3.png?raw=true" width="400" height="300" />
+<img src="https://github.com/Mobiee/NLP-Sentiment-Classification-of-Movie-Reviews./blob/main/screenshots/bar4.png?raw=true" width="400" height="300" />
 
 
 
