@@ -13,20 +13,23 @@ function was made for cleaning the text column of the data given. In which first
 text in text columns are normalized by converting all sentences into lower case. Removing numbers,
 punctuations, special characters, hyperlinks, white spaces from back and front, and brackets as
 these does not have any impact or contributions to sentiment.
-Removing stop words: Stop words are the most common words that add little significance to the
+### Removing stop words: Stop words are the most common words that add little significance to the
 context of the text, such as "the," "is," "in," "at," and so on. This step involves importing stop words
 from the nltk.corpus library and applying them to the cleaned text as additional steps since this is
 sentiment analysis and the word “not” is excluded from the list of removing stop words.
-Lemmatization: The process of grouping together the various inflected forms of a word so that they
+### Lemmatization: The process of grouping together the various inflected forms of a word so that they
 can be analysed as a single object is known as lemmatization. Lemmatization is similar to stemming
 in that it adds meaning to sentences.
-Tokenization: Tokenization is the method of breaking down an expression, sentence, or paragraph
+### Tokenization: Tokenization is the method of breaking down an expression, sentence, or paragraph
 into smaller units, such as individual word. These smaller units are referred to as tokens.
 Tokenization is accomplished by splitting the text column into tokens using the split process.
-Contractions: Handling contractions was another step that was done for cleaning the text data,
+### Contractions: Handling contractions was another step that was done for cleaning the text data,
 which are shortened sentences or syllables or words with apostrophes in them. The contractions are
 handled by removing the apostrophes and reformatting them for easy classification of sentiment
 (e.g., “didn’t” to “did not”).
+
+### Unigrams or Bigrams
+
 In order to decide whether to use unigrams or bigrams the distribution of these ranges were
 explored through visualising them as can be seen in figure 1, it shows the top 20 unigrams of the
 data before cleaning, which mostly consist of common stop words of “the”, ”and”, ”it”, ”is” which
